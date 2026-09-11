@@ -43,5 +43,5 @@ A GitHub Actions workflow is included to automatically restore and build the pro
 
 A screenshot of the successful CI result will be added below.
 
-## Video Presentation
+![alt text](image.png)
 
